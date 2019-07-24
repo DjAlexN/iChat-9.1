@@ -1,0 +1,16 @@
+.iChat_input { width: 99px; padding: 1px; }
+.iChat_bbeditor { border: 1px solid #d4dfe8; background: #fff url("../img/bbcode/bg.png") repeat; }
+.iChat_bbeditor span, .iChat_bbeditor span img, .iChat_bbeditor .bbspacer, .iChat_bbeditor .bbselect { float: left; }
+.iChat_bbeditor .bbselect { height: 21px; padding: 4px 3px 0 3px; }
+.iChat_bbeditor .bbselect select { font-size: 11px; }
+.iChat_bbeditor span { cursor: pointer; background: url("../img/bbcode/buttons.png") no-repeat; }
+.iChat_bbeditor span:hover { background-position: -23px 0; }
+.iChat_editor { width: 99% !important; background-color: #f9fafa; border: 1px solid #d4dfe8; }
+.iChat_editor .iChat_bbeditor { border-width: 0 0 1px 0; }
+.ui-corner-all { -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; }
+#message{width: 99%;height: 60px;display:block;background:#fff url(../img/bg_message.png) center no-repeat;border:1px solid #c2c2c2;}
+.chat {border: 1px solid #dadada;background-color:#FFFFFF;margin-left: 5px;margin-right: 5px;margin-bottom: 1px;margin-top: 2px;-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;padding: 3px;}
+.chat:hover {border: 1px solid #cccccc;}
+.hr1 {background:url('../img/hr.png') repeat-x;height:2px;border:0px}
+.edit_buttons {opacity: 0.2;cursor:pointer;}
+.edit_buttons:hover {opacity: 1;}
